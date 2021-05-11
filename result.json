@@ -1,0 +1,45 @@
+[ {
+  "averageLengthUnloadingQueue" : [ 13 ],
+  "averageWaitingTimeInQueue" : [ {
+    "time" : 1988
+  } ],
+  "averageDelay" : [ {
+    "time" : 746
+  } ],
+  "maxDelay" : [ {
+    "time" : 1440
+  } ],
+  "totalNumberShipsUnloaded" : [ 242 ],
+  "numberBulkShip" : [ 67 ],
+  "numberLiquidShip" : [ 95 ],
+  "numberContainerShip" : [ 85 ],
+  "totalCost" : [ 418400 ],
+  "costBulk" : [ 113500 ],
+  "costLiquid" : [ 154900 ],
+  "costContainer" : [ 150000 ],
+  "numberBulkCrane" : [ 3 ],
+  "numberLiquidCrane" : [ 5 ],
+  "numberContainerCrane" : [ 5 ]
+}, {
+  "averageLengthUnloadingQueue" : [ 13 ],
+  "averageWaitingTimeInQueue" : [ {
+    "time" : 1988
+  } ],
+  "averageDelay" : [ {
+    "time" : 746
+  } ],
+  "maxDelay" : [ {
+    "time" : 1440
+  } ],
+  "totalNumberShipsUnloaded" : [ 242 ],
+  "numberBulkShip" : [ 67 ],
+  "numberLiquidShip" : [ 95 ],
+  "numberContainerShip" : [ 85 ],
+  "totalCost" : [ 418400 ],
+  "costBulk" : [ 113500 ],
+  "costLiquid" : [ 154900 ],
+  "costContainer" : [ 150000 ],
+  "numberBulkCrane" : [ 3 ],
+  "numberLiquidCrane" : [ 5 ],
+  "numberContainerCrane" : [ 5 ]
+} ]
